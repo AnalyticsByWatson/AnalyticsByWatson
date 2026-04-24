@@ -1,56 +1,54 @@
 # Sam Watson
 
-B.B.A. in Business Economics @ Florida Atlantic University
-Analytics • Marketing • Quantitative Finance
+Business Economics @ Florida Atlantic University
+Analytics • Marketing Strategy • Quantitative Finance
 
 ---
 
-## 🔍 Focus
+I analyze data to uncover growth drivers, competitive dynamics, and strategic opportunities. My work focuses on translating raw data into clear, decision-oriented insights across marketing, finance, and market analysis.
+
+---
+
+## 📊 Featured Project
+
+### 🎧 Spotify Market Analysis
+
+Analyzed multi-platform search demand trends across Spotify, Apple Music, and YouTube Music to evaluate growth, competition, and event-driven behavior.
+
+* Identified accelerating demand growth and market leadership trends
+* Isolated event-driven spikes (e.g., Spotify Wrapped) and their impact on long-term growth
+* Evaluated competitive positioning across major streaming platforms
+
+👉 Focus: Time-Series Analysis • Market Strategy • Consumer Behavior
+
+---
+
+## 🧠 What I Do
 
 * Marketing Analytics & Performance Optimization
-* Financial Modeling & Market Analysis
-* Data-Driven Decision Making
-
----
-
-## 📊 Featured Projects
-
-### 📈 Marketing Analytics Dashboard
-
-Analyzed campaign performance data to identify ROI drivers and optimize marketing spend.
-
-### 📉 Economic Trend Analysis
-
-Evaluated inflation, interest rates, and macroeconomic indicators to identify key trends.
-
-### 🤖 Predictive Modeling – Loan Default Risk
-
-Built a model to estimate probability of default and improve risk classification.
-
-### 💼 Financial Markets Analysis
-
-Modeled derivatives pricing and simulated market scenarios using quantitative methods.
+* Market & Competitive Analysis
+* Financial Modeling & Quantitative Analysis
+* Data-Driven Strategy
 
 ---
 
 ## 🛠️ Tools
 
-Python (Pandas, NumPy, Matplotlib)
-Excel & Financial Modeling
-Data Visualization
-Statistical Analysis
+Python (Pandas, Matplotlib)
+Excel (Pivot Tables, Time-Series Analysis)
+Data Visualization & Statistical Analysis
 
 ---
 
-## 🎯 Experience
+## 🎓 Certifications & Experience
 
-* Global Career Accelerator Intern & Graduate (Business Analytics & Digital Marketing)
-* Goldman Sachs Controllers Simulation
-* JPMorgan Quantitative Research Simulation
-* Citi Markets Quantitative Analysis Simulation
+* Global Career Accelerator – Business Analytics & Digital Marketing
+* Goldman Sachs Controllers Simulation (Financial Analysis & NAV Modeling)
+* JPMorgan Quantitative Research Experience (Default Risk Modeling)
 
 ---
 
 ## 📫 Connect
 
 LinkedIn: https://www.linkedin.com/in/sam-watson-a37652311
+
