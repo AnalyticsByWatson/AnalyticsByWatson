@@ -1,25 +1,37 @@
 # Sam Watson
 
-Business Economics @ Florida Atlantic University
-Analytics • Marketing Strategy • Quantitative Finance
+Business Economics @ Florida Atlantic University  
+Analytics • Marketing Strategy • Quantitative Finance  
 
 ---
 
-I analyze data to uncover growth drivers, audience behavior, and strategic opportunities. My work focuses on translating complex datasets into clear, actionable insights across marketing, finance, and market analysis.
+I analyze data to uncover growth drivers, market behavior, and strategic opportunities. My work focuses on translating complex datasets into clear, actionable insights across marketing, finance, and capital markets.
 
 ---
 
 ## 📊 Featured Projects
 
+### 🌊 Signal & Flow — Weekly Market Brief | April 21–25, 2026
+
+Develop and publish a weekly, data-driven market brief analyzing financial markets, macroeconomic trends, and capital flows.
+
+* Analyzed market movement, interest rates, and sector rotation to identify high-conviction trends  
+* Built Excel-based visualizations to track market performance and capital allocation  
+* Delivered structured insights on where capital is flowing and the implications for market direction  
+
+👉 Focus: Market Analysis • Capital Flows • Macroeconomics • Data Visualization  
+
+---
+
 ### 🎧 Spotify Market Analysis
 
 Analyzed multi-platform search demand trends across Spotify, Apple Music, and YouTube Music to evaluate growth, competition, and event-driven behavior.
 
-* Identified accelerating demand growth and long-term market leadership trends
-* Isolated event-driven spikes (e.g., Spotify Wrapped) and their impact on sustained growth
-* Evaluated competitive positioning across major streaming platforms
+* Identified accelerating demand growth and long-term market leadership trends  
+* Isolated event-driven spikes (e.g., Spotify Wrapped) and their impact on sustained growth  
+* Evaluated competitive positioning across major streaming platforms  
 
-👉 Focus: Time-Series Analysis • Market Strategy • Consumer Behavior
+👉 Focus: Time-Series Analysis • Market Strategy • Consumer Behavior  
 
 ---
 
@@ -27,36 +39,36 @@ Analyzed multi-platform search demand trends across Spotify, Apple Music, and Yo
 
 Developed a data-driven audience expansion strategy for a global nonprofit by analyzing demographic segmentation, engagement patterns, and digital behavior.
 
-* Identified high-value audience segments with strong engagement potential
-* Analyzed behavioral differences across intercultural markets
-* Developed targeted outreach strategies to improve donor conversion
+* Identified high-value audience segments with strong engagement potential  
+* Analyzed behavioral differences across intercultural markets  
+* Developed targeted outreach strategies to improve donor conversion  
 
-👉 Focus: Audience Segmentation • Marketing Strategy • Conversion Optimization
+👉 Focus: Audience Segmentation • Marketing Strategy • Conversion Optimization  
 
 ---
 
 ## 🧠 What I Do
 
-* Marketing Analytics & Performance Optimization
-* Market & Competitive Analysis
-* Financial Modeling & Quantitative Analysis
-* Data-Driven Strategy
+* Market & Competitive Analysis  
+* Marketing Analytics & Performance Optimization  
+* Financial Modeling & Quantitative Analysis  
+* Data-Driven Strategy & Decision-Making  
 
 ---
 
 ## 🛠️ Tools
 
-Python (Pandas, Matplotlib)
-Excel (Pivot Tables, Time-Series Analysis)
-Data Visualization & Statistical Analysis
+* Python (Pandas, Matplotlib)  
+* Excel (Pivot Tables, Time-Series Analysis, Dashboards)  
+* Data Visualization & Statistical Analysis  
 
 ---
 
 ## 🎓 Certifications & Experience
 
-* Global Career Accelerator – Business Analytics & Digital Marketing
-* Goldman Sachs Controllers Simulation (Financial Analysis & NAV Modeling)
-* JPMorgan Quantitative Research Experience (Default Risk Modeling)
+* Global Career Accelerator – Business Analytics & Digital Marketing  
+* Goldman Sachs Controllers Simulation (Financial Analysis & NAV Modeling)  
+* JPMorgan Quantitative Research Experience (Default Risk Modeling)  
 
 ---
 
