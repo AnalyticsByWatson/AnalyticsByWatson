@@ -13,7 +13,7 @@ I analyze data to uncover growth drivers, market behavior, and strategic opportu
 
 ### 🌊 Signal & Flow — Weekly Market Brief | April 21–25, 2026
 
-Develop and publish a weekly, data-driven market brief analyzing financial markets, macroeconomic trends, and capital flows.
+Developing and publishing a weekly, data-driven market brief analyzing financial markets, macroeconomic trends, and capital flows.
 
 * Analyzed market movement, interest rates, and sector rotation to identify high-conviction trends  
 * Built Excel-based visualizations to track market performance and capital allocation  
