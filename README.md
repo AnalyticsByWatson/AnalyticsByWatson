@@ -11,7 +11,7 @@ I analyze data to uncover growth drivers, market behavior, and strategic opportu
 
 ## 📊 Featured Projects
 
-### 🌊 Signal & Flow — Weekly Market Brief | April 21–25, 2026
+### 🌊 Signal & Flow by SW — Weekly Market Brief | April 21–25, 2026
 
 Developing and publishing a weekly, data-driven market brief analyzing financial markets, macroeconomic trends, and capital flows.
 
