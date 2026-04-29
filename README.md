@@ -34,7 +34,7 @@ Developed a data-driven pricing model to analyze how pricing decisions impact de
 
 👉 Focus: Revenue Optimization • Pricing Strategy • Scenario Analysis • Data Modeling  
 
-🔗 [View Project](https://github.com/YOUR-USERNAME/uber-revenue-optimization-model)
+🔗 [View Project](https://github.com/AnalyticsByWatson/uber-revenue-optimization-model)
 
 ---
 
